@@ -38,11 +38,28 @@ This will be a Laboratory-class based course. Every week we will meet for a 3 ho
   </tr>
 </table>
 
-### Submission
-Below listed are few of the better solutions provided during submissions.
-#### Midterm Project
-#### Endterm Project
+### Submissions
+List of mandatory submissions along solutions.
+#### Online Regression
+[By username](https://www.google.com)
+
+#### Online Singular Value Decomposition
+[By username](https://www.google.com)
+
+#### Robust Principle Component Analysis (Midterm Project)
+[By username](https://www.google.com)
+
+#### Probabilistic Principle Component Analysis (PPCA) using Expectation Maximization
+[By username](https://www.google.com)
+
+#### Incremental Principle Component Analysis
+[By username](https://www.google.com)
+
+#### Generative Adversarial Network using PPCA (Endterm Project)
+[By username](https://www.google.com)
+
 #### Endterm Take-home
+[By username](https://www.google.com)
 
 ### List of repository
 [Link](https://www.google.com) to the excel file containing list of repositories.
