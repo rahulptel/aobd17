@@ -1,3 +1,4 @@
+[image](./images/)
 # Algorithms and Optimization for Big Data
 ## School of Engineering and Applied Science, Ahmedabad University
 
@@ -12,7 +13,7 @@ This will be a Laboratory-class based course. Every week we will meet for a 3 ho
 
 ### Evaluation
 | Type | Weightage | Description |
-| ------------- |:-------------:| :-----|
+| --- | --- | --- |
 | Midterm Project | 30% | 3 Week Project will be an individual project – Implementation of an existing research paper. |
 | Endterm Project | 30% | 7 Week project will be a group project – extending an existing research paper.|
 | Endterm Take-home | 40% | Propose solution/s for the open-ended problem provided. |
