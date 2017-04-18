@@ -38,7 +38,7 @@ This will be a Laboratory-class based course. Every week we will meet for a 3 ho
 </table>
 
 ### Submissions
-List of mandatory submissions along solutions.
+List of mandatory submissions along with solutions.
 #### Online Regression
 [By username](https://www.google.com)
 
