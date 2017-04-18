@@ -2,3 +2,14 @@
 
 # Algorithms for Big Data and Optimization
 ## School of Engineering and Applied Science, Ahmedabad University
+
+### Course Brief
+
+### Evaluation
+
+### Submission
+#### Midterm Project
+#### Endterm Project
+#### Endterm Take-home
+
+### List of repository
