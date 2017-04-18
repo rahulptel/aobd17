@@ -14,11 +14,29 @@ This is a PG course (open as a technical elective to senior UG). The course will
 This will be a Laboratory-class based course. Every week we will meet for a 3 hours session. During this session we will be discussing one or two ideas from reference research papers. Further, in this session, you (students) will be implementing these ideas in relevant software systems
 
 ### Evaluation
-| Type | Weightage | Description |
-| --- | --- | --- |
-| Midterm Project | 30% | 3 Week Project will be an individual project – Implementation of an existing research paper. |
-| Endterm Project | 30% | 7 Week project will be a group project – extending an existing research paper.|
-| Endterm Take-home | 40% | Propose solution/s for the open-ended problem provided. |
+<table>
+  <th>Type</th>
+  <th>Weightage</th>
+  <th>Description</th>
+  
+  <tr>
+  <td>Midterm Project</td>
+  <td>30%</td>
+  <td>3 Week Project will be an individual project – Implementation of an existing research paper.</td>
+  </tr>
+  
+  <tr>  
+  <td>Endterm Project</td>
+  <td>30%</td>
+  <td>7 Week project will be a group project – extending an existing research paper.</td>
+  </tr>
+  
+  <tr>  
+  <td>Endterm Take-home</td>
+  <td>40%</td>
+  <td>Propose solution/s for the open-ended problem provided.</td>
+  </tr>
+</table>
 
 ### Submission
 Below listed are few of the better solutions provided during submissions.
