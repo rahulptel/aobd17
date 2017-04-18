@@ -1,16 +1,18 @@
-![alt text](https://github.com/rahulptel/Algorithms-for-Big-Data-and-Optimization-2017/blob/master/images/IMG_20170418_101643_183.jpg "Idea Map")
+![Concept Map](https://github.com/rahulptel/Algorithms-for-Big-Data-and-Optimization-2017/blob/master/images/IMG_20170418_101643_183.jpg "Concept Map")
 
 # Algorithms and Optimization for Big Data
 ## School of Engineering and Applied Science, Ahmedabad University
 
+### Faculty
+Prof. Ratnik Gandhi [Profile]
+### Teaching Assistant
+Rahul Patel [Pofile]
 ### Course Brief
 This is a PG course (open as a technical elective to senior UG). The course will evolve around reading and implementation of state of the art literature in streaming algorithms related to big data problems. The objective of this course is to expose students with state of the art literature in the area of algorithms designing specifically for big data (focusing on streaming algorithms and related optimization problems). Student taking this course will develop an ability to independently take up a problem related to big data, model it and design a relevant solution.
 
 This will be a Laboratory-class based course. Every week we will meet for a 3 hours session. During this session we will be discussing one or two ideas from reference research papers. Further, in this session, you (students) will be implementing these ideas in relevant software systems
 
 ### Evaluation
-
-
 | Type | Weightage | Description |
 | ------------- |:-------------:| :-----|
 | Midterm Project | 30% | 3 Week Project will be an individual project – Implementation of an existing research paper. |
@@ -24,3 +26,6 @@ Below listed are few of the better solutions provided during submissions.
 #### Endterm Take-home
 
 ### List of repository
+[Link](https://www.google.com) to the excel file containing list of repositories.
+
+### Useful Resources
