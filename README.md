@@ -1,4 +1,6 @@
-[image](./images/)
+
+![ConceptMap](./images/cover.jpg)
+
 # Algorithms and Optimization for Big Data
 ## School of Engineering and Applied Science, Ahmedabad University
 
