@@ -1,5 +1,4 @@
-
-![ConceptMap](./images/cover.jpg)
+![ConceptMap](./images/cover2.jpg)
 
 # Algorithms and Optimization for Big Data
 ## School of Engineering and Applied Science, Ahmedabad University
@@ -62,6 +61,6 @@ List of mandatory submissions along solutions.
 [By username](https://www.google.com)
 
 ### List of repository
-[Link](https://www.google.com) to the excel file containing list of repositories.
+[Link](https://www.google.com) to the excel file containing list of student repositories.
 
 ### Useful Resources
