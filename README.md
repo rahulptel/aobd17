@@ -65,6 +65,7 @@ John Doe [repo](https://www.google.com)
 
 ### Useful Resources
 #### Blogs & Tutorials
+- [Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/) `GAN`
 #### Softwares & Packages
 - [Tensorflow](https://www.tensorflow.org)
 - [Keras](https://keras.io/)
