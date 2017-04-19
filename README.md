@@ -64,11 +64,15 @@ John Doe [repo](https://www.google.com)
 [Link](https://www.google.com) to the excel file containing list of student repositories.
 
 ### Useful Resources
-Blogs, Softwares, Tutorials
-#### Softwares
-<ul>
-  <li> [Tensorflow](https://www.tensorflow.org) </li>
-</ul>
+#### Blogs & Tutorials
+#### Softwares & Packages
+- [Tensorflow](https://www.tensorflow.org)
+- [Keras](https://keras.io/)
+- [CUDA](http://www.nvidia.com/object/cuda_home_new.html)
+- [IPython](https://ipython.org/ipython-doc/3/interactive/tutorial.html)
+- [Anaconda](https://www.continuum.io/downloads)
+- [scikit-learn](http://scikit-learn.org/stable/)
+
 
 ### References
 
