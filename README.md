@@ -4,7 +4,7 @@
 ## School of Engineering and Applied Science, Ahmedabad University
 
 ### Faculty
-Prof. Ratnik Gandhi [Profile](https://www.google.com)
+Prof. Ratnik Gandhi [Profile](https://ahduni.edu.in/seas/people/faculty/ratnik-gandhi)
 ### Teaching Assistant
 Rahul Patel [Pofile](https://www.google.com)
 ### Course Brief
@@ -67,4 +67,19 @@ List of mandatory submissions along with solutions.
 Blogs, Softwares, Tutorials
 
 ### References
-List of papers
+
+1. Multi-Dimensional Regression Analysis of Time-Series Data Streams, Chen et al., Proceedings of the 28th VLDB Conference, Hong Kong, China, 2002.
+2. Linear Programming in the Semi-Streaming Model with Applications to the Maximum Matching Problem, Ahn and Guha, Arxiv 2011.
+3. Fast Low-Rank Modifications of the Think Singular Value Decomposition, M Brand, Elsevier 2006.
+4. Parallel and Collaborative filtering for Streaming Data, Ali, Jhonson, Tang, 2011.
+5. Streaming Algorithm for the SVD, Strumpen, Hoffmann, Agarwal, MIT LCS Technical Memo 2003.
+6. Matrix Factorization for Collaborative Prediction, Kleeman, Hendersen, Denuit.
+7. Generalized Hebbian Algorithm for Incremental Latent Semantic Analysis, Gorrell and Webb.
+8. Analytic challenges in Social Sensing, Abdelzaher and Wang.
+9. Detecting anomaly in data streams by fractal model, Zhang et al., WWW 2014.
+10. Eigenspace Method for Spatiotemporal Hotspot Detection, Fanaee- T and Gama, Arxiv 2014.
+11. Chandima Hewa Nadungodage, Yuni Xia, Fang Li, Jaehwan John Lee, and Jiaqi Ge. Streamfitter: a real time linear regression analysis system for continuous data streams. In Database Systems for Advanced Applications, pages 458{461. Springer, 2011.
+12. Haitao Zhao, Pong Chi Yuen, and James T Kwok. A novel incremental principal component analysis and its application for face recognition. Systems, Man, and Cybernetics, Part B: Cybernetics, IEEE Transactions on, 36(4):873{886, 2006.
+13. Pang, Shaoning, Seiichi Ozawa, and Nikola Kasabov. "Incremental linear discriminant analysis for classification of data streams." IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics) 35, no. 5 (2005): 905-914.
+14. Aggarwal, Charu C. "Outlier analysis." In Data Mining, pp. 237-263. Springer International Publishing, 2015.
+15. Aggarwal, Charu C. "A Survey of Stream Clustering Algorithms." (2013): 231-258.
