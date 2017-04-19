@@ -65,6 +65,10 @@ John Doe [repo](https://www.google.com)
 
 ### Useful Resources
 Blogs, Softwares, Tutorials
+#### Softwares
+<ul>
+  <li> [Tensorflow](https://www.tensorflow.org) </li>
+</ul>
 
 ### References
 
