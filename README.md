@@ -64,9 +64,11 @@ John Doe [repo](https://www.google.com)
 [Link](https://www.google.com) to the excel file containing list of student repositories.
 
 ### Useful Resources
+
 #### Blogs & Tutorials
 - [Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/) `GAN`
 - [Generative Adversarial Networks Tutorial by Adit Deshpande](https://github.com/adeshpande3/Generative-Adversarial-Networks) `GAN`
+
 #### Softwares & Packages
 - [Tensorflow](https://www.tensorflow.org)
 - [Keras](https://keras.io/)
@@ -74,7 +76,6 @@ John Doe [repo](https://www.google.com)
 - [IPython](https://ipython.org/ipython-doc/3/interactive/tutorial.html)
 - [Anaconda](https://www.continuum.io/downloads)
 - [scikit-learn](http://scikit-learn.org/stable/)
-
 
 ### References
 
