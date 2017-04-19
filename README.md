@@ -21,19 +21,19 @@ This will be a Laboratory-class based course. Every week we will meet for a 3 ho
   <tr>
   <td>Midterm Project</td>
   <td>30%</td>
-  <td>3 Week Project will be an individual project – Implementation of an existing research paper.</td>
+  <td>A 3 Week project individual project - Implementation of an existing research paper.</td>
   </tr>
   
   <tr>  
   <td>Endterm Project</td>
   <td>30%</td>
-  <td>7 Week project will be a group project – extending an existing research paper.</td>
+  <td>A 7 Week project group project - Implementation and extention of an existing research paper.</td>
   </tr>
   
   <tr>  
   <td>Endterm Take-home</td>
   <td>40%</td>
-  <td>Propose solution/s for the open-ended problem provided.</td>
+  <td>A one week individual assignment - Propose solution/s for the open-ended problem provided.</td>
   </tr>
 </table>
 
