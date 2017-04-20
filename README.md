@@ -6,7 +6,7 @@
 ### Faculty
 Prof. Ratnik Gandhi | [Profile](https://ahduni.edu.in/seas/people/faculty/ratnik-gandhi) |
 ### Teaching Assistant
-Rahul Patel | [Pofile](https://www.google.com) |
+Rahul Patel | [Profile](https://www.google.com) |
 ### Course Brief
 This is a PG course (open as a technical elective to senior UG). The course will evolve around reading and implementation of state of the art literature in streaming algorithms related to big data problems. The objective of this course is to expose students with state of the art literature in the area of algorithms designing specifically for big data (focusing on streaming algorithms and related optimization problems). Student taking this course will develop an ability to independently take up a problem related to big data, model it and design a relevant solution.
 
