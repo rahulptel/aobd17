@@ -57,6 +57,12 @@ John Doe [repo](https://www.google.com)
 #### Generative Adversarial Network using PPCA (Endterm Project)
 John Doe [repo](https://www.google.com)
 
+#### Online K-medians Clustering
+John Doe [repo](https://www.google.com)
+
+#### Incremental Linear Discriminant Analysis (Endterm Project)
+John Doe [repo](https://www.google.com)
+
 #### Endterm Take-home
 John Doe [repo](https://www.google.com)
 
