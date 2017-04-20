@@ -41,6 +41,7 @@ This will be a Laboratory-class based course. Every week we will meet for a 3 ho
 List of assignments with solutions.
 #### Online Regression
 John Doe [repo](https://www.google.com)
+Nomination: Parth Satodiya
 
 #### Online Singular Value Decomposition
 John Doe [repo](https://www.google.com)
@@ -50,6 +51,7 @@ John Doe [repo](https://www.google.com)
 
 #### Probabilistic Principle Component Analysis (PPCA) using Expectation Maximization
 John Doe [repo](https://www.google.com)
+Nomination: Parth Satodiya
 
 #### Incremental Principle Component Analysis
 John Doe [repo](https://www.google.com)
@@ -59,9 +61,11 @@ John Doe [repo](https://www.google.com)
 
 #### Online K-medians Clustering
 John Doe [repo](https://www.google.com)
+Nominations: Shreyas Patel, Bhavya Patwa
 
-#### Incremental Linear Discriminant Analysis (Endterm Project)
+#### Incremental Linear Discriminant Analysis
 John Doe [repo](https://www.google.com)
+Nominations: Shreyas Patel, Bhavya Patwa
 
 #### Endterm Take-home
 John Doe [repo](https://www.google.com)
