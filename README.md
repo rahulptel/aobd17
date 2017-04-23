@@ -110,3 +110,4 @@ John Doe [repo](https://www.google.com)
 14. Aggarwal, Charu C. "Outlier analysis." In Data Mining, pp. 237-263. Springer International Publishing, 2015.
 15. Aggarwal, Charu C. "A Survey of Stream Clustering Algorithms." (2013): 231-258.
 16. Candès, Emmanuel J., et al. "Robust principal component analysis?." Journal of the ACM (JACM) 58.3 (2011): 11.
+17. Tipping, Michael E., and Christopher M. Bishop. "Probabilistic principal component analysis." Journal of the Royal Statistical Society: Series B (Statistical Methodology) 61.3 (1999): 611-622.
