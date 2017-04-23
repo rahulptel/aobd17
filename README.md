@@ -76,6 +76,7 @@ John Doe [repo](https://www.google.com)
 ### Useful Resources
 
 #### Blogs & Tutorials
+- [A Singularly Valuable Decomposition: The SVD of a Matrix](http://www-users.math.umn.edu/~lerman/math5467/svd.pdf) `SVD`
 - [Expectation Maximization Algorithm](https://www.youtube.com/watch?v=3JYcCbO5s6M&index=1&list=PLBv09BD7ez_7beI0_fuE96lSbsr_8K8YD) `EM` `Video`
 - [A Gentle Tutorial of the EM Algorithm and its Application to Parameter Estimation for Gaussian Mixture and Hidden Markov Models](http://melodi.ee.washington.edu/people/bilmes/mypapers/em.pdf) `EM`
 - [What is the expectation maximization algorithm?](http://www.cmi.ac.in/~madhavan/courses/datamining12/reading/em-tutorial.pdf) `EM`
