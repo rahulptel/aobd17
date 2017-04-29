@@ -58,9 +58,9 @@ Submit your solutions to Rahul on April 28, 2017 between 10am to 11am.
 List of assignments with solutions.
 <table>
   <tr>
-  <td>Sr. No</td>
-  <td>Topic<td>
-  <td>Submission</td>
+  <th>Sr. No</th>
+  <th>Topic<th>
+  <th>Submission</th>
   </tr>
   
   <tr>
@@ -72,13 +72,13 @@ List of assignments with solutions.
   <tr>
   <td>2</td>
   <td>Online Singular Value Decomposition<td>
-  <td>[solution]() </td>
+  <td> [solution]() </td>
   </tr>
   
   <tr>
   <td>3</td>
   <td>Robust Principle Component Analysis (Midterm Project)<td>
-  <td>[solution]() </td>
+  <td> [solution]() </td>
   </tr>
   
   <tr>
@@ -115,10 +115,8 @@ List of assignments with solutions.
   <td>9</td>
   <td>Recommendation System(Endterm exam)<td>
   <td> [solution]() </td>
-  </tr>
-      
+  </tr>      
 </table>
-
 
 
 ### List of repository
