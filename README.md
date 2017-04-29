@@ -55,68 +55,6 @@ Submission will be a report (maximum 3 page for diagrams/algorithm/results and o
 Submit your solutions to Rahul on April 28, 2017 between 10am to 11am.
 
 ### Submissions
-List of assignments with solutions.
-<table>
-  <tr>
-  <th>Sr. No</th>
-  <th>Topic<th>
-  <th>Submission</th>
-  </tr>
-  
-  <tr>
-  <td>1</td>
-  <td>Online Regression<td>
-  <td>Parth Satodiya [solution]() </td>
-  </tr>
-  
-  <tr>
-  <td>2</td>
-  <td>Online Singular Value Decomposition<td>
-  <td> [solution]() </td>
-  </tr>
-  
-  <tr>
-  <td>3</td>
-  <td>Robust Principle Component Analysis (Midterm Project)<td>
-  <td> [solution]() </td>
-  </tr>
-  
-  <tr>
-  <td>4</td>
-  <td>Probabilistic Principle Component Analysis (PPCA) using Expectation Maximization<td>
-  <td> Parth Satodiya [solution]() </td>
-  </tr>
-  
-  <tr>
-  <td>5</td>
-  <td>Incremental Principle Component Analysis<td>
-  <td> [solution]() </td>
-  </tr>
-  
-  <tr>
-  <td>6</td>
-  <td>Generative Adversarial Network using PPCA (Endterm Project)<td>
-  <td> [solution]() </td>
-  </tr>
-  
-  <tr>
-  <td>7</td>
-  <td>Online K-medians Clustering<td>
-  <td> Shreyas Patel [solution]() </td>
-  </tr>
-  
-  <tr>
-  <td>8</td>
-  <td>Incremental Linear Discriminant Analysis<td>
-  <td> Bhavya Patwa [solution]() </td>
-  </tr>
-  
-  <tr>
-  <td>9</td>
-  <td>Recommendation System(Endterm exam)<td>
-  <td> [solution]() </td>
-  </tr>      
-</table>
 
 
 ### List of repository
