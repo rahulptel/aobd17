@@ -6,7 +6,7 @@
 ### Faculty
 Prof. Ratnik Gandhi | [Profile](https://ahduni.edu.in/seas/people/faculty/ratnik-gandhi) |
 ### Teaching Assistant
-Rahul Patel | [Profile](https://www.google.com) |
+Rahul Patel | [Profile](https://rahulptel.github.io) |
 ### Course Brief
 This is a PG course (open as a technical elective to senior UG). The course will evolve around reading and implementation of state of the art literature in streaming algorithms related to big data problems. The objective of this course is to expose students with state of the art literature in the area of algorithms designing specifically for big data (focusing on streaming algorithms and related optimization problems). Student taking this course will develop an ability to independently take up a problem related to big data, model it and design a relevant solution.
 
@@ -37,38 +37,89 @@ This will be a Laboratory-class based course. Every week we will meet for a 3 ho
   </tr>
 </table>
 
+### Endterm exam (takehome)
+
+Consider a scenario in which a company like LinkedIn wants to build a module for suggesting career progression paths to its registered users. When a user logs onto the platform, the platform reads user’s profile and based on various parameters of this profile comes up with relevant suggestions on how the user should consider next set of skills to be acquired. Your aim, through this exam, is to design the following two modules:
+
+1. A module that reads user’s profile and suggest a career path – in terms of skillset -- to be acquired. [10]
+2. A module in which user enters a career goal and based on this career goal and other related information the platform suggest a career path.[10]
+
+Relevant user profile data is available [here](www.google.com). You are supposed to design modules for
+- Reading data and if required cleaning it.
+- Once data is available in relevant structured format, design modules 1 and 2 mentioned above.
+
+Significantly unique solutions will be appreciated.[10]
+
+Submission will be a report (maximum 3 page for diagrams/algorithm/results and other discussions) and GitHub code. A neat and clean algorithm with relevant proofs of correctness and its efficiency (recorded as a measure of computational complexity) will fetch more grades. [10]
+
+Submit your solutions to Rahul on April 28, 2017 between 10am to 11am.
+
 ### Submissions
 List of assignments with solutions.
-#### Online Regression
-John Doe [repo](https://www.google.com)
-Nomination: Parth Satodiya
+<table>
+  <tr>
+  <td>Sr. No</td>
+  <td>Topic<td>
+  <td>Submission</td>
+  </tr>
+  
+  <tr>
+  <td>1</td>
+  <td>Online Regression<td>
+  <td>Parth Satodiya [solution]() </td>
+  </tr>
+  
+  <tr>
+  <td>2</td>
+  <td>Online Singular Value Decomposition<td>
+  <td>[solution]() </td>
+  </tr>
+  
+  <tr>
+  <td>3</td>
+  <td>Robust Principle Component Analysis (Midterm Project)<td>
+  <td>[solution]() </td>
+  </tr>
+  
+  <tr>
+  <td>4</td>
+  <td>Probabilistic Principle Component Analysis (PPCA) using Expectation Maximization<td>
+  <td> Parth Satodiya [solution]() </td>
+  </tr>
+  
+  <tr>
+  <td>5</td>
+  <td>Incremental Principle Component Analysis<td>
+  <td> [solution]() </td>
+  </tr>
+  
+  <tr>
+  <td>6</td>
+  <td>Generative Adversarial Network using PPCA (Endterm Project)<td>
+  <td> [solution]() </td>
+  </tr>
+  
+  <tr>
+  <td>7</td>
+  <td>Online K-medians Clustering<td>
+  <td> Shreyas Patel [solution]() </td>
+  </tr>
+  
+  <tr>
+  <td>8</td>
+  <td>Incremental Linear Discriminant Analysis<td>
+  <td> Bhavya Patwa [solution]() </td>
+  </tr>
+  
+  <tr>
+  <td>9</td>
+  <td>Recommendation System(Endterm exam)<td>
+  <td> [solution]() </td>
+  </tr>
+      
+</table>
 
-#### Online Singular Value Decomposition
-John Doe [repo](https://www.google.com)
 
-#### Robust Principle Component Analysis (Midterm Project)
-John Doe [repo](https://www.google.com)
-
-#### Probabilistic Principle Component Analysis (PPCA) using Expectation Maximization
-John Doe [repo](https://www.google.com)
-Nomination: Parth Satodiya
-
-#### Incremental Principle Component Analysis
-John Doe [repo](https://www.google.com)
-
-#### Generative Adversarial Network using PPCA (Endterm Project)
-John Doe [repo](https://www.google.com)
-
-#### Online K-medians Clustering
-John Doe [repo](https://www.google.com)
-Nominations: Shreyas Patel, Bhavya Patwa
-
-#### Incremental Linear Discriminant Analysis
-John Doe [repo](https://www.google.com)
-Nominations: Shreyas Patel, Bhavya Patwa
-
-#### Endterm Take-home
-John Doe [repo](https://www.google.com)
 
 ### List of repository
 [Link](https://www.google.com) to the excel file containing list of student repositories.
