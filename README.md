@@ -72,13 +72,13 @@ List of assignments with solutions.
   <tr>  
   <td>2</td>
   <td>Online Singular Value Decomposition</td>
-  <td></td>
+  <td>Kishan Raval</td>
   </tr>
   
   <tr>  
   <td>3</td>
   <td>Robust Principle Component Analysis (Midterm Project)</td>
-  <td></td>
+  <td>Riddhesh Sanghavi</td>
   </tr>
   
   <tr>  
@@ -90,7 +90,7 @@ List of assignments with solutions.
   <tr>  
   <td>5</td>
   <td>Incremental Principle Component Analysis</td>
-  <td>A one week individual assignment - Propose solution/s for the open-ended problem provided.</td>
+  <td>Maunil Vyas</td>
   </tr>
   
   <tr>  
@@ -120,7 +120,11 @@ List of assignments with solutions.
   <tr>  
   <td>8</td>
   <td>Endterm Take-home</td>
-  <td>A one week individual assignment - Propose solution/s for the open-ended problem provided.</td>
+  <td>Maunil Vyas and Deep Patel <a href="">A</a><br>
+  Nisarg Tike and Nand Parikh <a href="">B</a><br>
+  Raj Derasari <a href="">B</a><br>
+  Ashutosh Kakadiya <a href="">B</a><br>
+  </td>
   </tr>    
 </table>
 
