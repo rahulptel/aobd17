@@ -72,13 +72,13 @@ List of assignments with solutions.
   <tr>  
   <td>2</td>
   <td>Online Singular Value Decomposition</td>
-  <td>A 7 Week project group project - Implementation and extention of an existing research paper.</td>
+  <td></td>
   </tr>
   
   <tr>  
   <td>3</td>
   <td>Robust Principle Component Analysis (Midterm Project)</td>
-  <td>A one week individual assignment - Propose solution/s for the open-ended problem provided.</td>
+  <td></td>
   </tr>
   
   <tr>  
@@ -96,13 +96,16 @@ List of assignments with solutions.
   <tr>  
   <td>6</td>
   <td>Generative Adversarial Network using PPCA (Endterm Project)</td>
-  <td>A one week individual assignment - Propose solution/s for the open-ended problem provided.</td>
+  <td>Maunil Vyas, Deep Patel and Shreyas Patel <a href="">A</a>  
+  </td>
   </tr>
   
   <tr>  
   <td>7</td>
   <td>Online K-medians Clustering</td>
-  <td>A one week individual assignment - Propose solution/s for the open-ended problem provided.</td>
+  <td>Bhavya Patwa <a href="">A</a><br>
+  Shreyas Patel <a href="">B</a><br>
+  </td>
   </tr>
   
   <tr>  
