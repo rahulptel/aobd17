@@ -108,7 +108,9 @@ List of assignments with solutions.
   <tr>  
   <td>8</td>
   <td>Incremental Linear Discriminant Analysis</td>
-  <td>A one week individual assignment - Propose solution/s for the open-ended problem provided.</td>
+  <td>Bhavya Patwa <a href="">A</a><br>
+  Shreyas Patel <a href="">B</a><br>
+  </td>
   </tr>
   
   
