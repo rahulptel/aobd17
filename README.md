@@ -56,6 +56,68 @@ Submit your solutions to Rahul on April 28, 2017 between 10am to 11am.
 
 ### Submissions
 
+List of assignments with solutions.
+
+<table>
+  <th>Sr. No</th>
+  <th>Submission</th>
+  <th>Solution</th>
+  
+  <tr>
+  <td>1</td>
+  <td>Online Regression</td>
+  <td>Parth Satodiya: <a href="https://www.tensorflow.org">Tensorflow</a> </td>
+  </tr>
+  
+  <tr>  
+  <td>2</td>
+  <td>Online Singular Value Decomposition</td>
+  <td>A 7 Week project group project - Implementation and extention of an existing research paper.</td>
+  </tr>
+  
+  <tr>  
+  <td>3</td>
+  <td>Robust Principle Component Analysis (Midterm Project)</td>
+  <td>A one week individual assignment - Propose solution/s for the open-ended problem provided.</td>
+  </tr>
+  
+  <tr>  
+  <td>4</td>
+  <td>Probabilistic Principle Component Analysis (PPCA) using Expectation Maximization</td>
+  <td>Parth Satodiya</td>
+  </tr>
+  
+  <tr>  
+  <td>5</td>
+  <td>Incremental Principle Component Analysis</td>
+  <td>A one week individual assignment - Propose solution/s for the open-ended problem provided.</td>
+  </tr>
+  
+  <tr>  
+  <td>6</td>
+  <td>Generative Adversarial Network using PPCA (Endterm Project)</td>
+  <td>A one week individual assignment - Propose solution/s for the open-ended problem provided.</td>
+  </tr>
+  
+  <tr>  
+  <td>7</td>
+  <td>Online K-medians Clustering</td>
+  <td>A one week individual assignment - Propose solution/s for the open-ended problem provided.</td>
+  </tr>
+  
+  <tr>  
+  <td>8</td>
+  <td>Incremental Linear Discriminant Analysis</td>
+  <td>A one week individual assignment - Propose solution/s for the open-ended problem provided.</td>
+  </tr>
+  
+  
+  <tr>  
+  <td>8</td>
+  <td>Endterm Take-home</td>
+  <td>A one week individual assignment - Propose solution/s for the open-ended problem provided.</td>
+  </tr>    
+</table>
 
 ### List of repository
 [Link](https://www.google.com) to the excel file containing list of student repositories.
