@@ -112,7 +112,7 @@ List of assignments with solutions.
   <td>8</td>
   <td>Incremental Linear Discriminant Analysis</td>
   <td>Bhavya Patwa <a href="">A</a><br>
-  Shreyas Patel <a href="">B</a><br>
+  Shreyas Patel <a href="https://github.com/shreyaspatel25/PAM_Clustering_Algorithm" target="_blank">Sol.</a><br>
   </td>
   </tr>
   
