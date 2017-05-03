@@ -104,7 +104,7 @@ List of assignments with solutions.
   <td>7</td>
   <td>Online K-medians Clustering</td>
   <td>Bhavya Patwa <a href="">A</a><br>
-  Shreyas Patel <a href="">B</a><br>
+  Shreyas Patel <a href="http://github.com/shreyaspatel25/PAM_Clustering_Algorithm">Sol.</a><br>
   </td>
   </tr>
   
@@ -143,6 +143,7 @@ List of assignments with solutions.
 - [Generative Learning algorithms by Andrew Ng - CS229 Lecture Notes](http://cs229.stanford.edu/notes/cs229-notes2.pdf) `GAN`
 - [Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/) `GAN`
 - [Generative Adversarial Networks Tutorial by Adit Deshpande](https://github.com/adeshpande3/Generative-Adversarial-Networks) `GAN`
+- [The PAM Clustering Algorithm](http://www.cs.umb.edu/cs738/pam1.pdf) `Clustering`
 
 #### Softwares & Packages
 - [Tensorflow](https://www.tensorflow.org)
