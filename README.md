@@ -104,7 +104,7 @@ List of assignments with solutions.
   <td>7</td>
   <td>Online K-medians Clustering</td>
   <td>Bhavya Patwa <a href="">A</a><br>
-  Shreyas Patel <a href="http://github.com/shreyaspatel25/PAM_Clustering_Algorithm">Sol.</a><br>
+  Shreyas Patel <a href="http://github.com/shreyaspatel25/PAM_Clustering_Algorithm" targer="_blank">Sol.</a><br>
   </td>
   </tr>
   
