@@ -140,6 +140,7 @@ List of assignments with solutions.
 - [What is the expectation maximization algorithm?](http://www.cmi.ac.in/~madhavan/courses/datamining12/reading/em-tutorial.pdf) `EM`
 - [The EM algorithm](http://cs229.stanford.edu/notes/cs229-notes8.pdf) `EM`
 - [The Expectation Maximization Algorithm: A short tutorial](https://www.cs.utah.edu/~piyush/teaching/EM_algorithm.pdf) `EM`
+- [Generative Learning algorithms by Andrew Ng - CS229 Lecture Notes](http://cs229.stanford.edu/notes/cs229-notes2.pdf) `GAN`
 - [Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/) `GAN`
 - [Generative Adversarial Networks Tutorial by Adit Deshpande](https://github.com/adeshpande3/Generative-Adversarial-Networks) `GAN`
 
