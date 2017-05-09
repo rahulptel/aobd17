@@ -120,10 +120,10 @@ List of assignments with solutions.
   <tr>  
   <td>8</td>
   <td>Endterm Take-home</td>
-  <td>Maunil Vyas and Deep Patel <a href="">A</a><br>
+  <td>Maunil Vyas and Deep Patel <a href="https://github.com/deepcpatel/AOBD17_1401010/tree/master/Final_Exam_Submission">Sol.</a><br>
   Nisarg Tike and Nand Parikh <a href="">B</a><br>
   Raj Derasari <a href="">B</a><br>
-  Ashutosh Kakadiya <a href="">B</a><br>
+  Ashutosh Kakadiya <a href="https://github.com/ashutoshaay26/AOBD17_1401075/tree/master/Final%20Exam%20Code">Sol.</a><br>
   </td>
   </tr>    
 </table>
